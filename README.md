@@ -94,3 +94,4 @@ This is a rough sketch of the architecture the plugin implements:
 
 ![ar_plugin_architecture](./AR_Plugin_Architecture_highlevel.svg)
 
+# ar_flutter_plugin
